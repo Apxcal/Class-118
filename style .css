@@ -1,0 +1,14 @@
+body{
+    background-color:peachpuff;
+}
+
+#score{
+    font-size:15px;
+    margin-left:10px;
+}
+
+#timer{
+    font-size:15px;
+    margin-right:10px;
+    float:right;
+}
